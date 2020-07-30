@@ -68,8 +68,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": ['virtual.uagrm.edu.bo/pregrado','virtual.uagrm.edu.bo/contaduria','virtual.uagrm.edu.bo/informatica','virtual.uagrm.edu.bo/derecho','virtual.uagrm.edu.bo/postgrado'],
-    "sitename": ['Pregrado', 'Contaduría Virtual', 'Informática Virtual','Derecho Virtual','Postgrado'],
+    "siteurl": ["virtual.uagrm.edu.bo/pregrado","virtual.uagrm.edu.bo/contaduria","virtual.uagrm.edu.bo/informatica","virtual.uagrm.edu.bo/derecho","virtual.uagrm.edu.bo/postgrado"],
+    "sitename": ["Pregrado", "Contaduría Virtual", "Informática Virtual","Derecho Virtual","Postgrado"],
     "multisitesdisplay": "select",
     "onlyallowlistedsites": true,
     "skipssoconfirmation": false,
