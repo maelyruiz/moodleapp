@@ -25,10 +25,10 @@ $white:           #ffffff; // Background, reversed text.
 
 $blue:            #0064d2; // Link, background.
 $turquoise:       #007982; // Accent.
-$green:           #5e8100; // Accent.
+$green:           #a4171b; // Accent cambiar por rojo.
 $red:             #cb3d4d;
 $orange:          #2286cd; // Accent (never text).
-$yellow:          #fbad1a; // Accent (never text).
+$yellow:          #95c2e2; // Accent (never text).
 $purple:          #8e24aa; // Accent (never text).
 
 // Branded apps customization
@@ -56,7 +56,7 @@ $core-color:          $orange !default;
 $core-color-light:    lighten($core-color, 10%) !default;
 $core-color-dark:     darken($core-color, 10%) !default;
 
-$core-course-image-background: #81ecec, #74b9ff, #a29bfe, #dfe6e9, #00b894, #0984e3, #b2bec3, #fdcb6e, #fd79a8, #6c5ce7 !default;
+$core-course-image-background: #81ecec, #74b9ff, #a29bfe, #dfe6e9, #00b894, #0984e3, #b2bec3, #95c2e2, #fd79a8, #6c5ce7 !default;
 
 // Shared Variables
 // --------------------------------------------------
